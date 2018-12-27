@@ -2,3 +2,5 @@ new file user2
 
 
 git stage 1
+
+git stage 2

@@ -1,1 +1,3 @@
 git stage 1
+
+git stage 2
