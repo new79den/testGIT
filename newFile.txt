@@ -1,1 +1,4 @@
 new file user2
+
+
+git stage 1
