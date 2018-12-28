@@ -1,3 +1,4 @@
 test revert 1;
 test revert 2;
 test revert 3;
+test revert 4;
